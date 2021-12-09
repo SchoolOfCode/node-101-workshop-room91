@@ -1,0 +1,24 @@
+{
+  "name": "101-workshop-room91",
+  "version": "1.0.0",
+  "description": "Node JS gives us the power to take JavaScript out of the browser - this means we're able to use it in servers and on the back end. Make sure you have the relevant version of Node for your OS installed from [here](https://nodejs.org/en/download/); you can choose which version you download, but the LTS version is recommended.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://Marydez57: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@github.com/SchoolOfCode/node-101-workshop-room91.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/SchoolOfCode/node-101-workshop-room91/issues"
+  },
+  "homepage": "https://github.com/SchoolOfCode/node-101-workshop-room91#readme",
+  "dependencies": {
+    "chalk": "^5.0.0"
+  }
+}
